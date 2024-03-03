@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane style="-fx-background-color: linear-gradient(to bottom, #ff7f50, #ffd95c);" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="754.0" prefWidth="846.0">
+         <children>
+            <Label layoutX="89.0" layoutY="70.0" prefHeight="146.0" prefWidth="638.0" text="Welcome to the London Property MarketPlace Application!" textAlignment="CENTER">
+               <font>
+                  <Font size="22.0" />
+               </font>
+            </Label>
+            <Label layoutX="89.0" layoutY="143.0" prefHeight="74.0" prefWidth="530.0" text="Here you'll be able to view all properties registered on the AirBnb App.">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="89.0" layoutY="190.0" text="To get started, please select a valid price range from the dropdown box above!">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</Pane>

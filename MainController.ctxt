@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainController
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=pane
+comment3.target=void\ changeView(javafx.scene.layout.Pane)
+comment4.params=
+comment4.target=javafx.scene.layout.BorderPane\ getNextPane()
+comment5.params=
+comment5.target=javafx.scene.layout.BorderPane\ getPreviousPane()
+numComments=6

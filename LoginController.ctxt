@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LoginController
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LoginController\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=airbnbArray
+comment1.target=LoginController(java.util.ArrayList)
+comment2.params=url\ resourceBundle
+comment2.target=void\ initialize(java.net.URL,\ java.util.ResourceBundle)
+comment3.params=event
+comment3.target=void\ buttonHandle(javafx.event.ActionEvent)
+numComments=4

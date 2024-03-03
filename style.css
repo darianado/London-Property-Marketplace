@@ -1,0 +1,45 @@
+.red{
+      -fx-background-color: #fc2b2b;  
+}
+
+.yellow{
+    -fx-background-color: #ffd919;
+}
+
+.green{
+    -fx-background-color: #00d142;
+}
+.center{
+    -fx-alignment: center;
+} 
+
+.error{
+    -fx-text-fill: red;
+    -fx-max-width: Infinity;
+    -fx-alignment: center ;
+}
+
+.button{
+    -fx-alignment: center;
+    -fx-background-color: 
+        #c3c4c4,
+        linear-gradient(#d6d6d6 50%, white 100%);
+    -fx-background-insets: 0,1,1;
+    -fx-text-fill: black;
+    
+}
+
+.boxGradient{
+     -fx-background-color:  linear-gradient(to bottom, #ff7f50, #ffd95c);
+     -fx-background-radius: 50;
+}
+
+.topText{
+    -fx-font-size: 20px;
+    -fx-padding : 0 50 30 50;
+}
+
+.selector{
+    -fx-spacing: 80;
+    -fx-font-size: 15;
+}

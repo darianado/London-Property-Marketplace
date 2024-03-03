@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MapController
+comment1.params=airbnbArray
+comment1.target=MapController(java.util.ArrayList)
+comment2.params=url\ resourceBundle
+comment2.target=void\ initialize(java.net.URL,\ java.util.ResourceBundle)
+comment3.params=
+comment3.target=void\ init()
+comment4.params=from\ to
+comment4.target=void\ setFromTo(int,\ int)
+comment5.params=borough
+comment5.target=int\ getNrPropIn(java.lang.String)
+comment6.params=
+comment6.target=void\ mapVisualInication()
+comment7.params=event
+comment7.target=void\ buttonHandle(javafx.event.ActionEvent)
+numComments=8
