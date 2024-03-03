@@ -1,4 +1,4 @@
-PROJECT TITLE: AirBnB London Data Set Loader
+PROJECT TITLE: AirBnB London Data Set Loader in BlueJ
 PURPOSE OF PROJECT: To load the AirBnB London data set from the provided csv file into a Java data structure
 HOW TO START THIS PROJECT: Use the method 'load' in the the class 'AirbnbDataLoader'
 Part of PPA module @ KCL  
